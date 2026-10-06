@@ -31,7 +31,7 @@
     "@figma/plugin-typings": "^1.107.0",
     "@nuxt/content": "^3.2.1",
     "@nuxt/ui": "3.0.0-beta.2",
-    "@nuxt/ui-pro": "3.0.0-beta.2",
+    "@nuxt/ui-pro": "3.3.7",
     "@s-libs/micro-dash": "^18.0.0",
     "@tempad-dev/plugins": "^0.5.0",
     "@types/node": "^22.13.5",
