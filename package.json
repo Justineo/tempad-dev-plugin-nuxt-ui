@@ -33,7 +33,7 @@
     "@nuxt/ui": "3.0.0-beta.2",
     "@nuxt/ui-pro": "3.0.0-beta.2",
     "@s-libs/micro-dash": "^18.0.0",
-    "@tempad-dev/plugins": "^0.5.0",
+    "@tempad-dev/plugins": "^0.6.0",
     "@types/node": "^22.13.5",
     "eslint": "^9.21.0",
     "eslint-plugin-de-morgan": "^1.1.0",
